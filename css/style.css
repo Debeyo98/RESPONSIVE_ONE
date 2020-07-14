@@ -1,0 +1,109 @@
+header{
+    /* border: 3px solid red; */
+    background-image: url("../images/header.jpg");
+    height: 100vh;
+    /* background-position: center; */
+    background-size: cover;
+}
+
+nav{
+    background-color: transparent;
+    border-bottom: 0.25px solid rgba(163, 149, 149, 0.63);
+}
+
+.nav-item .active{
+    color: #82e222;
+}
+.nav-link{
+    color: rgba(199, 206, 212, 0.753)
+}
+.navbar-brand img{
+    width: 150px;
+}
+.container{
+    margin-top: 150px;
+}
+.container h1{
+    color: #ffffff;
+    font-size: 45px;
+}
+.container p{
+    color: #ffffff;
+    font-size: 20px;
+}
+.jumbotron{
+    background-color: #82e222;
+}
+
+.jumbotron img{
+    width: 30px;
+}
+.jumbotron h1{
+    color: #ffffff;
+}
+.jumbotron p{
+    font-size: 20px;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+.btn{
+    background-color: #82e222;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+}
+.btn2{
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 20px;
+    border: none;
+    height: 40px;
+
+}
+.image1{
+    padding: 0;
+    margin: 0;
+    background-image: url(../images/writing.jpg);
+    width: 350px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+}
+.image2{
+    padding: 0;
+    margin: 0;
+    background-image: url(../images/concert.jpg);
+    width: 350px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+}
+.image3{
+    padding: 0;
+    margin: 0;
+    background-image: url(../images/pencil_sharpener.jpg);
+    width: 350px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+}
+.container h3{
+    margin: 100px;
+    color: #ffffff;
+}
+.child img{
+    border-radius: 50%;
+}
+.jumbo2{
+    background-color: #ffffff;
+}
+.jumbo2 h1{
+    color: #000;
+}
+.jumbo2 p{
+    color: grey;
+}
+
+footer{
+    text-align: center;
+}
